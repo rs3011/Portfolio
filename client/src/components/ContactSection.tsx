@@ -207,16 +207,6 @@ export default function ContactSection() {
                 </div>
 
                 <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-neon-green/20 to-neon-green/10 flex items-center justify-center">
-                    <Phone className="w-5 h-5 text-neon-green" />
-                  </div>
-                  <div>
-                    <p className="font-medium" data-testid="text-phone">+91 8777547938</p>
-                    <p className="text-sm text-muted-foreground">Available for calls</p>
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-neon-amber/20 to-neon-amber/10 flex items-center justify-center">
                     <MapPin className="w-5 h-5 text-neon-amber" />
                   </div>
